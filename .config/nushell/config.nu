@@ -16,4 +16,5 @@
 #
 # You can remove these comments if you want or leave
 # them for future reference.
+oh-my-posh init nu --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/refs/heads/main/themes/dracula.omp.json'
 source ~/.nu/nu-themes/dracula.nu
