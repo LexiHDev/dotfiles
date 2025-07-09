@@ -19,3 +19,56 @@
 .VirtualBox/
 .vscode/
 .vscode-oss/
+ansel/
+apks/
+AppData/
+Application Data/
+bkup-android/
+ca-certificates/
+cc/
+Contacts/
+Cookies/
+data/
+DCIM/
+Documents/
+Downloads/
+dwhelper/
+Favorites/
+go/
+go-transcode/
+Links/
+Local Settings/
+Music/
+My Documents/
+NetHood/
+OneDrive/
+Open_Android_Backup_v1.1.0_Bundle
+OpenVPN
+Pictures
+powershell-scripts
+PrintHood
+ps-modules/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+Start Menu/
+Sync/
+Templates/
+Videos/
+VirtualBox VMs/
+vscode-handler
+
+# Other git projects
+ca-certificates/
+# Google's ca-certs
+go-transcode/
+life-godot/
+MC-Mod
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{ad4bc59c-5b69-11f0-bc11-cdf6960c5807}.TM.blf
+NTUSER.DAT{ad4bc59c-5b69-11f0-bc11-cdf6960c5807}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{ad4bc59c-5b69-11f0-bc11-cdf6960c5807}.TMContainer00000000000000000002.regtrans-ms
+ntuser.ini
+NTUSER.DAT
